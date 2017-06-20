@@ -1,0 +1,16 @@
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\Quiz\obj\Debug\Resource\Skins\OfficeBlueSkin.baml
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\Quiz\obj\Debug\View\MainWindow.g.cs
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\Quiz\obj\Debug\App.g.cs
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\Quiz\obj\Debug\Quiz_MarkupCompile.cache
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\Quiz\obj\Debug\Quiz_MarkupCompile.lref
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\Quiz\obj\Debug\View\MainWindow.baml
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\Quiz\obj\Debug\Quiz.g.resources
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\Quiz\obj\Debug\Quiz.Resource.MessageResource.Resource.resources
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\Quiz\obj\Debug\Quiz.pdb

@@ -1,0 +1,11 @@
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\QuizTests\bin\Debug\QuizTests.dll
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\QuizTests\bin\Debug\QuizTests.pdb
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\QuizTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\QuizTests\bin\Debug\Quiz.exe
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\QuizTests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\QuizTests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\QuizTests\bin\Debug\Quiz.pdb
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\QuizTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\QuizTests\obj\Debug\QuizTests.csprojResolveAssemblyReference.cache
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\QuizTests\obj\Debug\QuizTests.dll
+C:\Users\Kamal\Desktop\Sudoco Code\Quiz\QuizTests\obj\Debug\QuizTests.pdb
